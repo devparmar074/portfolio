@@ -235,11 +235,11 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 495px; 
+  width: 295px; 
 }
 
 .home__blob{
-  width: 300px;
+  width: 250px;
   fill: var(--first-color);
 }
 
