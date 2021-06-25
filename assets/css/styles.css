@@ -232,13 +232,14 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
+  /* position: absolute; */
   right: 0;
   bottom: 0;
   width: 295px; 
 }
 
 .home__blob{
+  position: relative;
   width: 250px;
   fill: var(--first-color);
 }
